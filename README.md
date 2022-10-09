@@ -1,7 +1,7 @@
 # e-commerce-backend
 
 ## Project Description
-This project is 
+This project is designed to provide a place for users to compile their own portfolio! This allows users to share their profile with the coding community, friends, and potential employers.
 
 ## Table of Contents
 [Description](#project-description)

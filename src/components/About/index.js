@@ -1,7 +1,7 @@
 import React from 'react'; 
 // import images from assets
 import myImage from '../../assets/images/myimage.jpeg';
-import flowerImage from '../../assets/images/myflower.png';
+//import flowerImage from '';
 import { Col } from 'react-bootstrap';
 
 
@@ -22,7 +22,7 @@ function About() {
         there are different ways to solve problems.
         <br></br>
         <br></br>
-        I am Full Stack Web Developer based in Charlotte, NC with a Bachelor’s Degree in Biology. I also posses Emergency Medical Transport, First-Aid/CPR, and Basic Life Support Certifications.
+        I am a Full Stack Web Developer based in Charlotte, NC with a Bachelor’s Degree in Biology. I also posses Emergency Medical Transport, First-Aid/CPR, and Basic Life Support Certifications.
         I am incredibly organized and hard working. I'm a naturally bubbly person and always put my all into everything that I do.
         <br></br>
         <br></br>
